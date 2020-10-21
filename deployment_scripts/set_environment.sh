@@ -1,7 +1,7 @@
 #!/bin/bash
 
 export DEFAULT_LOCATION=uksouth
-export SIRMIONE_ALIAS=rssimone
+export SIRMIONE_ALIAS=rssirmione
 export LIMONE_ALIAS=rslimone
 export SCORPIO_ALIAS=rsscorpio
 export VIRGO_ALIAS=rsvirgo
