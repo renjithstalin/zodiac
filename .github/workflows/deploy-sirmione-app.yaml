@@ -12,8 +12,7 @@ on: [workflow_dispatch]
 name: Deploy Sirmione App
 env:
   DEFAULT_LOCATION: uksouth
-  SIRMIONE_ALIAS: rs1147zodiac
-
+  SIRMIONE_ALIAS: rssirmione
 jobs:
   build_and_deploy:
     runs-on: ubuntu-latest
