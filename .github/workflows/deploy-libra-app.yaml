@@ -1,4 +1,4 @@
-name: Deploy Libra App
+name: Deploy Libra App 
 env:
    DEFAULT_LOCATION: uksouth
    LIBRA_ALIAS: bplibra
