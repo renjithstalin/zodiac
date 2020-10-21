@@ -1,4 +1,4 @@
-name: Deploy Virgo App
+name: Deploy Virgo App 
 env:
    DEFAULT_LOCATION: uksouth
    VIRGO_ALIAS: bpvirgo
